@@ -8,4 +8,4 @@ Installation
 https://cdn.statically.io/gh/ifarnoud/iran-adblock/main/listblock.txt
 
 Note:
-If you spot any issues in the list, please open a ticket. Please feel free to fork and send in your pull requests if you want to contribute to the list.
+If you spot any issues in the list, please open a ticket.
