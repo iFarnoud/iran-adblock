@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
+[Adblock Version 1.0]
 ! Checksum: r9RQZEzAVEBdu7HPPbuEHA
 !--------------------------------------------------------------------------
-! Title :    Adblock-Iran
+! Title :    Iran-Adblock
 ! Expires:   4 days
 ! Version:   12
 ! Homepage:  https://github.com/ifarnoud
