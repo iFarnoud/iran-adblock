@@ -1,8 +1,8 @@
 iran-adblock
-Ad blocking rules for persian websites. Works with Brave adblock import source (iOS).
+Ad blocking rules for persian websites. Works with Brave adblock import source (iOS,Windows,MacOS).
 
 Installation
-Brave (iOS) under Setting -> Brave Shields & Privacy -> Content Filtering -> Add Custom Filter List
+Brave (iOS,Windows,MacOS) under Setting -> Brave Shields & Privacy -> Content Filtering -> Add Custom Filter List
 
 Installation
 https://cdn.statically.io/gh/ifarnoud/iran-adblock/main/listblock.txt
