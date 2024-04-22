@@ -1,12 +1,7 @@
-[Adblock Version 1.0]
-! Checksum: r9RQZEzAVEBdu7HPPbuEHA
-!--------------------------------------------------------------------------
-! Title :    Iran-Adblock
-! Expires:   4 days
-! Version:   12
-! Homepage:  https://github.com/ifarnoud
-! Support:   https://farnoud.net 
-! License:   BSD Simplified
+
+! Title :    Persian - Adblock
+! Version:   220424
+! Homepage:  https://github.com/ItsFarnoud
 !--------------------------------------------------------------------------
 ###ADbox-2
 ###adnFloatbr
