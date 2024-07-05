@@ -1,7 +1,7 @@
 
 ! Title :    Persian - Adblock
 ! Version:   220424
-! Homepage:  https://github.com/ItsFarnoud
+! Homepage:  https://github.com/iFarnoud
 !--------------------------------------------------------------------------
 ###ADbox-2
 ###adnFloatbr
